@@ -4,11 +4,11 @@ To revisit the previous paper reading, we create this repository for storing rel
 Please create your own folder with your name as the folder name.
 
 <p float="left">
-    <img src="./images/foldername.png"/>
+    <img src="./images/foldername.PNG"/>
 </p>
 
 After that, please start the file name with the number of paper reading you have done at that time.
 
 <p float="left">
-    <img src="./images/filename.png"/>
+    <img src="./images/filename.PNG"/>
 </p>
